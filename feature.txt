@@ -1,0 +1,1 @@
+Ovo je samo još jedan dodatni file da bih mogao učiti kako upotrebljavati git.
